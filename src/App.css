@@ -18,7 +18,7 @@ body{
   }
 }
 
-.app__header{
+.app__header {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
