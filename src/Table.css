@@ -1,7 +1,7 @@
 .table {
     margin-top: 20px;
-    overflow: scroll;
-    height: 400px;
+    Overflow-x:scroll;
+    height: 500px;
     color: #6a5d5d;
     background-color: white;
 }
@@ -17,4 +17,8 @@
 
 .table tr:nth-of-type(odd){
     background-color: #f3f2f8;
+}
+
+div::-webkit-scrollbar{
+    height:7px;
 }
